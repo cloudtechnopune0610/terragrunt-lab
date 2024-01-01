@@ -5,5 +5,5 @@ terraform {
 
 inputs = {
     rgname1 = "dev-rg"
-  rglocation1 = "east us"
+  rglocation1 = "west us3"
 }
